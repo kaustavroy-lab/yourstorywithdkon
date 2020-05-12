@@ -793,6 +793,17 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rYNd3oFOav {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/background8.jpg");
+}
+.cid-rYNd3oFOav .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rYNd3oFOav .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-rOpjL41loQ {
   padding-top: 0px;
   padding-bottom: 0px;
