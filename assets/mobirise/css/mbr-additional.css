@@ -793,6 +793,9 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+#instagram-feed-block-k .inst__title {
+  color: #ffffff;
+}
 .cid-rYNd3oFOav {
   padding-top: 0px;
   padding-bottom: 15px;
