@@ -730,7 +730,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rYMcyESwGe {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -790,6 +790,9 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rYMcyESwGe .mbr-gallery-item > div > span {
+  text-align: left;
 }
 #instagram-feed-block-k .inst__title {
   color: #ffffff;
