@@ -25,11 +25,11 @@ body {
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
-  font-size: 0.4rem;
+  font-size: 0.6rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 0.64rem;
+  font-size: 0.96rem;
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
@@ -64,9 +64,9 @@ body {
     line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.32rem;
-    font-size: calc( 0.79rem + (0.4 - 0.79) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.79rem + (0.4 - 0.79) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.48rem;
+    font-size: calc( 0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -711,8 +711,6 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rOpdLO31G5 {
-  padding-top: 60px;
-  padding-bottom: 120px;
   background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-rOpdLO31G5 .mbr-figure {
