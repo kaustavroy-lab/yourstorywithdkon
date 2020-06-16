@@ -200,8 +200,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/1592245699271-1-1080x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1592245699271-1-1080x1080-800x800.jpg",
-                "alt": "",
-                "title": "",
+                "alt": "Conversation",
+                "title": "Conversation",
                 "customStyle1": "display-7",
                 "caption": "<b>New &nbsp; &nbsp;</b> পোশাক",
                 "active": false
@@ -213,8 +213,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/1591677875754-gourav-bhakat-1080x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1591677875754-gourav-bhakat-1080x1080-800x800.jpg",
-                "alt": "",
-                "title": "",
+                "alt": "Quote",
+                "title": "Quote",
                 "customStyle1": "display-7",
                 "caption": "সে শান্ত ছিল খুব",
                 "active": true
