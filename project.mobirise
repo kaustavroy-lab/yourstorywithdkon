@@ -198,12 +198,25 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/atanu-500x500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/atanu-500x500-500x500.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>New&nbsp;</b> &nbsp; &nbsp; &nbsp;রাতের রজনীগন্ধা ",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-20200616-082012-atanu-ghar-1536x2048.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20200616-082012-atanu-ghar-1536x2048-800x1067.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>New</b> &nbsp; &nbsp; &nbsp;সূর্য ডোবার পালা",
+                "caption": "সূর্য ডোবার পালা",
                 "active": false
               },
               {
@@ -216,7 +229,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>New &nbsp; &nbsp;</b> পোশাক",
+                "caption": "পোশাক",
                 "active": false
               },
               {
