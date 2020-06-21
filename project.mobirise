@@ -42,7 +42,7 @@
       }
     ],
     "uniqCompNum": 22,
-    "versionPublish": "4.12.3",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/splash.png",
     "imageResize": true,
@@ -198,12 +198,25 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20200621-142225-atanu-ghar-1150x1808.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200621-142225-atanu-ghar-1150x1808-800x1258.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>New &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>বলয়গ্রাস সূর্যগ্রহন",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/atanu-2-500x500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/atanu-2-500x500-500x500.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>New</b>&nbsp; &nbsp; &nbsp; &nbsp;শহিদ স্মরণ ",
+                "caption": "শহিদ স্মরণ ",
                 "active": false
               },
               {
